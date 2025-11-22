@@ -1,0 +1,21 @@
+{
+  "name": "moviedashboard",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "dev": "parcel src/index.html",
+  "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
